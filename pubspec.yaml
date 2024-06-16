@@ -1,4 +1,4 @@
-name: PALU
+name: flutter_palu
 description: "Aplikasi Solusi Rumah Tangga."
 publish_to: 'none'
 version: 1.0.0+1
@@ -21,6 +21,7 @@ dependencies:
   google_maps_flutter: ^2.6.1
   location: ^6.0.1
   image: ^4.1.7
+  go_router: ^14.2.0
 
 
 dev_dependencies:
